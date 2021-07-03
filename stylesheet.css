@@ -9,6 +9,7 @@ li{
 .header-logo{
   font-size: 36px;
   float: left;
+  padding: 40px;
 }
 
 .header-list li{
@@ -21,7 +22,8 @@ li{
 }
 
 .footer{
-  background-color: #000055;
+  color: #fff;
+  background-color: #2f5167;
   height: 90px;
 }
 
