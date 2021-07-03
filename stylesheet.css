@@ -1,5 +1,5 @@
 li{
-  float: left;
+  list-style: none;
 }
 
 .header{
@@ -13,6 +13,10 @@ li{
   float: left;
 }
 
+.header-list li{
+  float: left;
+}
+
 .main{
   background-color: silver;
   height: 600px;
@@ -21,4 +25,8 @@ li{
 .footer{
   background-color: #ceccf3;
   height: 270px;
+}
+
+.footer-list li{
+  float: right;
 }
