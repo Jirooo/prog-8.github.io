@@ -28,7 +28,8 @@ li{
   padding: 20px;
 }
 
-.main-logo{
+.main-logo h1{
+  font-size: 20px;
 }
 
 .footer{
