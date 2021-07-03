@@ -3,12 +3,13 @@ li{
 }
 
 .header{
-  background-color: #26d0c9;
+  background-color: #000055;
   height: 90px;
 }
 
 .header-logo{
   font-size: 36px;
+  float: left;
 }
 
 .main{
