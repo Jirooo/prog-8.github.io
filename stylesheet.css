@@ -8,7 +8,6 @@ li{
 
 .header{
   height: 120px;
-  margin: 0px;
 }
 
 .header-logo{
@@ -24,14 +23,12 @@ li{
 .main{
   background-color: silver;
   height: 600px;
-  margin: 0px;
 }
 
 .footer{
   color: #fff;
   background-color: #2f5167;
   height: 90px;
-  margin: 0px;
 }
 
 .footer-logo{
