@@ -1,5 +1,8 @@
-h1{
-  color: #0000ff;
+.header{
   background-color: #ddd;
   font-family: serif;
+}
+
+.math_1{
+  color: #ff0000;
 }
