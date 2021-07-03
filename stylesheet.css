@@ -3,8 +3,6 @@ li{
 }
 
 .header{
-  color: #fff;
-  background-color: #000055;
   height: 90px;
 }
 
@@ -23,8 +21,8 @@ li{
 }
 
 .footer{
-  background-color: #ceccf3;
-  height: 270px;
+  background-color: #000055;
+  height: 90px;
 }
 
 .footer-list li{
