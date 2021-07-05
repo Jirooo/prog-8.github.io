@@ -30,6 +30,8 @@ li{
 
 .side-contents{
   background-color: red;
+  height:auto;
+  width: 50px;
 }
 
 .main-logo{
