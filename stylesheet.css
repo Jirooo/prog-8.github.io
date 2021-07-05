@@ -17,15 +17,8 @@ li{
   border-bottom: 3px solid #AAAAAA;
 }
 
-.header-list ul{
+.header-list a{
   text-align: center;
-}
-
-.header-list li{
-  display: inline-block;
-  border: 1px solid #AAAAAA;
-  padding: 2px;
-  margin: 10px;
 }
 
 .btn{
