@@ -8,13 +8,17 @@ li{
 
 .header{
   color: #000000;
-  border-bottom: 2px solid #AAAAAA;
-  height: 60px;
+  height: 50px;
 }
 
 .header-logo{
   text-align: center;
   font-size: 30px;
+  border-bottom: 2px solid #AAAAAA;
+}
+
+.header-list{
+  display: inline;
 }
 
 .main-logo{
