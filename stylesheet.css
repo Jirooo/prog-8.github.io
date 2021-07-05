@@ -19,7 +19,5 @@ li{
 }
 
 .top-wrapper{
-  background-color: red;
-  background-image: url('math1.png');
-  background-size: cover;
+  background-color: #ddd;
 }
