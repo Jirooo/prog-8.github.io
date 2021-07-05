@@ -8,14 +8,13 @@ li{
 
 .header{
   color: #fff;
-  background: linear-gradient(135deg, #000033, #000033 60%, #D7EEFF);
-  height: 110px;
+  border-bottom: 2px solid #AAAAAA;
+  height: 80px;
 }
 
 .header-logo{
-  float: left;
-  font-size: 36px;
-  padding: 40px;
+  text-align: center;
+  font-size: 30px;
 }
 
 .main-logo{
