@@ -23,8 +23,9 @@ li{
 
 .header-list li{
   display: inline-block;
-  padding-right: 10px;
   border: 1px solid #AAAAAA;
+  padding: 2px;
+  margin: 10px;
 }
 
 .main-logo{
