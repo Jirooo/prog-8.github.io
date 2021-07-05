@@ -8,13 +8,13 @@ li{
 
 .header{
   color: #000000;
-  height: 60px;
+  height: 80px;
 }
 
 .header-logo{
   text-align: center;
   font-size: 30px;
-  border-bottom: 5px solid #AAAAAA;
+  border-bottom: 3px solid #AAAAAA;
 }
 
 .header-list ul{
@@ -28,9 +28,13 @@ li{
   margin: 10px;
 }
 
+.side-contents{
+  background-color: red;
+}
+
 .main-logo{
   background-color: #808080;
-  color: #000000;
+  color: #FFF;
   font-size: 50px;
   margin-top: 20px;
 }
