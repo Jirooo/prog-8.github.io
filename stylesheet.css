@@ -24,8 +24,7 @@ li{
 .header-list li{
   display: inline-block;
   padding-right: 10px;
-  border: solid 2px;
-  border-radius: 30% 50% 40% 70%;
+  border: 1px solid #AAAAAA;
 }
 
 .main-logo{
