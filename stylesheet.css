@@ -8,7 +8,7 @@ li{
 
 .header{
   color: #000000;
-  height: 50px;
+  height: 60px;
 }
 
 .header-logo{
@@ -23,6 +23,9 @@ li{
 
 .header-list li{
   display: inline-block;
+  padding-right: 10px;
+  border: solid 2px;
+  border-radius: 30% 50% 40% 70%;
 }
 
 .main-logo{
