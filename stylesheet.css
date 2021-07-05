@@ -8,7 +8,7 @@ li{
 
 .header{
   color: #fff;
-  background-color: #000033;
+  background-color: #000060;
   height: 110px;
 }
 
@@ -22,8 +22,8 @@ li{
 }
 
 .container{
-  background-image: linear-gradient(#e66465, #9198e5) url("math1.png");
+  background: linear-gradient(#e66465, #9198e5);
   background-size: cover;
-  color: #fff;
+  color: #000000;
   height: 500px;
 }
