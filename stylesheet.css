@@ -38,6 +38,7 @@ li{
 .contents{
   border: 2px solid #AAAAAA;
   margin: 100px 300px 0 50px;
+  height: 1000px;
 }
 
 /* .top-wrapper{
