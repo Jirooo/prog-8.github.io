@@ -28,10 +28,10 @@ li{
 
 .btn{
   display: inline-block;
+  text-decoration: none;
   background-color: #3b5998;
   color: white;
   height: 15px;
-  width: 30px;
 }
 
 .side-contents{
