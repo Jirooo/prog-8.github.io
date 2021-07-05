@@ -33,6 +33,9 @@ li{
 }
 
 .side-contents{
+  position: fixed;
+  top: 0;
+  left: 0;
   background-color: red;
   height: 1000px;
   width: 50px;
