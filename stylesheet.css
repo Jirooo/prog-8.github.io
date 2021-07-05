@@ -33,7 +33,7 @@ li{
 }
 
 .contents h3{
-  border: 1px solid #333;
+  border-bottom: 1px solid #333;
 }
 
 .footer{
