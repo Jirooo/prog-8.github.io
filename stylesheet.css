@@ -30,6 +30,8 @@ li{
   display: inline-block;
   background-color: #3b5998;
   color: white;
+  height: 30px;
+  width: 50px;
 }
 
 .side-contents{
@@ -39,6 +41,7 @@ li{
   background-color: red;
   height: 1000px;
   width: 50px;
+  opacity: 0.3;
   z-index: 10;
 }
 
