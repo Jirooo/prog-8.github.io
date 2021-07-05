@@ -13,8 +13,9 @@ li{
 }
 
 .header-logo{
-  font-size: 36px;
   float: left;
+  font-size: 36px;
+  font-weight: 100;
   padding: 40px;
 }
 
