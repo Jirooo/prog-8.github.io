@@ -17,8 +17,12 @@ li{
   border-bottom: 2px solid #AAAAAA;
 }
 
-.header-list{
-  display: inline;
+.header-list ul{
+  text-align: center;
+}
+
+.header-list li{
+  display: inline-block;
 }
 
 .main-logo{
