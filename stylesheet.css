@@ -28,6 +28,10 @@ li{
   margin: 10px;
 }
 
+.btn{
+  display: inline-block;
+}
+
 .side-contents{
   background-color: red;
   height:auto;
