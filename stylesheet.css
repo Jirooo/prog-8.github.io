@@ -23,6 +23,7 @@ li{
 
 .container{
   background-image: linear-gradient(#e66465, #9198e5),url("math1.png");
+  background-size: cover;
   color: #fff;
-  height: 1000px;
+  height: 500px;
 }
