@@ -1,5 +1,6 @@
 body {
   font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+  background-image: url('math1.png');
 }
 
 li{
@@ -16,8 +17,4 @@ li{
   float: left;
   font-size: 36px;
   padding: 40px;
-}
-
-.top-wrapper{
-  background-image: url(math1.png);
 }
