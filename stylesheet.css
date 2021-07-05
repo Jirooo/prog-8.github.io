@@ -42,6 +42,7 @@ li{
 .contents{
   border: 2px solid #AAAAAA;
   border-radius: 30px;
+  padding: 30px;
   margin: 150px 400px 0 50px;
   height: 1000px;
 }
