@@ -25,12 +25,13 @@ li{
 
 .main{
   background-color: #fff;
-  padding: 20px;
+  padding: 30px;
 }
 
 .main-logo h1{
   font-size: 50px;
-  padding: 70px 0px 70px 50px;
+  padding-top: 30px;
+  padding-bottom: 70px;
 }
 
 .section-title{
