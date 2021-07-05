@@ -37,13 +37,6 @@ li{
 
 .contents{
   border: 2px solid #AAAAAA;
+  margin-top: 100px;
+  margin-left: 50px;
 }
-
-/* .top-wrapper{
-  text-align: center;
-  background-color: #808080;
-  color: #FFF;
-  font-size: 40px;
-  margin-top: 20px;
-  padding: 10px 0;
-} */
