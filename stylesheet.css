@@ -19,7 +19,6 @@ li{
 
 .header-list{
   text-align: center;
-  background-color: #808080;
 }
 
 .header-list a{
@@ -36,3 +35,13 @@ li{
   color: white;
 }
 
+
+
+.top-wrapper{
+  text-align: center;
+  background-color: #808080;
+  color: #FFF;
+  font-size: 40px;
+  margin-top: 20px;
+  padding: 10px 0;
+}
