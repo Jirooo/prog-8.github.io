@@ -1,62 +1,69 @@
-<!DOCTYPE>
+body {
+  font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+}
 
-<html>
-  <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet", href="reset.css">
-    <link rel="stylesheet", href="stylesheet.css">
-    <title>Jiroom Math</title>
-  </head>
+li{
+  list-style: none;
+}
 
-  <body>
+.header{
+  color: #fff;
+  background-color: #26d0c9;
+  height: 110px;
+}
 
-    <div class="header">
-      <div class="header-logo">
-        高校数学
-      </div>
-      <div class="header-list">
-        <ul>
-          <li>数学I</li>
-          <li>数学A</li>
-          <li>数学II</li>
-          <li>数学B</li>
-          <li>数学III</li>
-        </ul>
-      </div>
-    </div>
+.header-logo{
+  float: left;
+  font-size: 36px;
+  font-weight: 100;
+  padding: 40px;
+}
 
-    <div class="main">
-      <div class="main-logo">
-        <h1>WELCOME TO JIROOM</h1>
-      </div>
+.header-list li{
+  float: left;
+  padding: 50px 20px;
+}
 
-      <div class="contents">
-        <h3 class="section-title">単元ごとのレッスン</h3>
-        <div class="contents-item">
-          <p>数と式</p>
-          <img src="main1.png", alt="因数分解", width="255", height="100">
-        </div>
-      </div>
+.main{
+  background-color: #fff;
+  padding: 30px 0px 50px 30px;
+}
 
-      <div class="contact-form">
-        <h3 class="section-title">お問い合わせ</h3>
-        <p>メールアドレス(必須)</p>
-        <input type="" name="" value="">
-      </div>
-    </div>
+.main-logo h1{
+  font-size: 50px;
+  padding-bottom: 70px;
+}
 
-    <div class="footer">
-      <div class="footer-logo">
-        Jiroom
-      </div>
-      <div class="footer-list">
-        <ul>
-          <li>数学</li>
-          <li>Python</li>
-          <li>C++</li>
-        </ul>
-      </div>
-    </div>
+.section-title{
+  font-size: 20px;
+  border-bottom: 2px solid #dee7ec;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+}
 
-  </body>
-</html>
+input{
+  width: 200px;
+}
+
+.footer{
+  color: #fff;
+  background-color: #2f5167;
+  height: 120px;
+}
+
+.footer-logo{
+  float: left;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.footer-list{
+  float: right;
+  padding-right: 10px;
+}
+
+.footer-list li{
+  padding-top: 10px;
+  padding-right: 20px;
+}
