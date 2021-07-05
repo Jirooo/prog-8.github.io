@@ -17,7 +17,7 @@ li{
   border-bottom: 3px solid #AAAAAA;
 }
 
-.header-list a{
+.header-list{
   text-align: center;
 }
 
@@ -27,7 +27,7 @@ li{
 
 .side-contents{
   background-color: red;
-  height:auto;
+  height: 100%;
   width: 50px;
 }
 
