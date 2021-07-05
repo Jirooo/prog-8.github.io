@@ -20,4 +20,5 @@ li{
 
 .top-wrapper{
   background-image: url('math1.png');
+  background-size: cover;
 }
