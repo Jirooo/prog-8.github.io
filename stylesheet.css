@@ -35,6 +35,10 @@ li{
   color: white;
 }
 
+.btn:hover{
+  background-color: rgbba(0,0,128,0.7);
+}
+
 .contents{
   border: 2px solid #AAAAAA;
   border-radius: 30px;
