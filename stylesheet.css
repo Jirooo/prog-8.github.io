@@ -8,7 +8,7 @@ li{
 
 .header{
   color: #fff;
-  background-color: #red;
+  background-color: #26d0c9;
   height: 110px;
 }
 
@@ -19,9 +19,10 @@ li{
 }
 
 .top-wrapper{
-  background-color: red;
 }
 
 .container{
+  background-color: #ff0000;
+  color: #fff;
   width: 1170px;
 }
