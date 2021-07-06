@@ -41,7 +41,7 @@ li{
 }
 
 .btn:active{
-  box-shadow: none;
+  box-shadow: 0 5px 5px 0 rgba(0,0,0,0.5);
   position: relative;
   top: 5px;
 }
