@@ -6,6 +6,11 @@ li{
   list-style: none;
 }
 
+.container{
+  width: 100%;
+  padding: 0 10px;
+}
+
 .header{
   color: #000000;
   height: 150px;
@@ -54,4 +59,8 @@ li{
   padding: 30px;
   margin: 50px 400px 0 50px;
   height: 1000px;
+}
+
+.section-title{
+  font-size: 
 }
