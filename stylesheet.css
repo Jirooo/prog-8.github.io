@@ -56,5 +56,9 @@ li{
 }
 
 .section-icon{
-  font-size: 1px;
+  position: relative;
+}
+
+.section-icon{
+  position: absolute;
 }
