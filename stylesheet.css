@@ -24,7 +24,7 @@ li{
 
 .header-list a{
   margin: 10px 20px;
-  padding: 15px 20px;
+  padding: 15px 25px;
   opacity: 0.8;
   border-radius: 10px;
   box-shadow: 0 7px #000080;
@@ -54,14 +54,4 @@ li{
   padding: 30px;
   margin: 50px 400px 0 50px;
   height: 1000px;
-}
-
-.section-icon{
-  position: relative;
-}
-
-.section-icon p{
-  position: absolute;
-  top: 10px;
-  left: 100%;
 }
